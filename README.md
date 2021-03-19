@@ -16,12 +16,4 @@ there is a thing that you need to eat.
 that is mom's meal
 
 # poem 3
-P.E
-music
-english
-society
-science
-math
-
-these are most popular subject in school.
-
+this is poem 3. and this branch will be pulled by pull-test branch
