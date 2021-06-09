@@ -27,3 +27,6 @@ these are most popular subject in school.
 ## git rebase
 - I'm going to use "git rebase -i"
 - I wanna use the same commit message cause writing again is lots of work
+
+## master
+- editting from master
