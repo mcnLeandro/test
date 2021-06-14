@@ -24,6 +24,7 @@ math
 
 these are most popular subject in school.
 
+
 ## git rebase
 - I'm going to use "git rebase -i"
 - I wanna use the same commit message cause writing again is lots of work
@@ -37,3 +38,7 @@ these are most popular subject in school.
 - This is rebase test branch 
 - Finally I get how rease works. 
 ## create-poem2
+
+## pull
+pull pull ,and pull. i'm going to pull create-poem3 branch
+
