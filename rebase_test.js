@@ -3,15 +3,9 @@
 // テスト1
 // 0. rebase_test1_core: mainから作成
 // 0. rebase_test1_front: mainから作成
-<<<<<<< Updated upstream
 // 1. rebase_test1_core: commit追加してpush(coreの作業として)
-// 2. rebase_test1_front: coreをpullしてpush
-// 3. rebase_test1_front: commitを追加してpush(frontの作業として)
-=======
-// 1. rebase_test1_core: commit追加してpush(coreの作業として) *
 // 2. rebase_test1_front: commitを追加してpush(frontの作業として)
 // 3. rebase_test1_front: coreをpullしてpush
->>>>>>> Stashed changes
 // 4. rebase_test1_core: mainにマージ
 // 5. rebase_test1_front: mainをpull --rebaseしてpush
 // ここでrebase_test1_frontのPRがどうなっているか確認
